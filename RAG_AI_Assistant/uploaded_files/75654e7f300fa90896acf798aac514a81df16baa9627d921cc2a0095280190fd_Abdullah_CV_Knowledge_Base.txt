@@ -1,0 +1,84 @@
+ABDULLAH MOHAMED HAMDEN AI Undergraduate | Aspiring Computer Vision /
+Machine Learning Engineer
+
+CONTACT Email: ai.abdullahmohamed.pro@gmail.com LinkedIn:
+https://www.linkedin.com/in/abdullah-mohamed-278b2b392 GitHub:
+https://github.com/aiabdullahmohamedpro-coder
+
+PROFESSIONAL SUMMARY Artificial Intelligence undergraduate at the
+Faculty of Computers and Artificial Intelligence, Sphinx University,
+with hands-on project experience in computer vision, machine learning,
+deep learning, and reinforcement learning. Builds AI applications with
+Python, OpenCV, YOLOv8, TensorFlow/Keras, and MediaPipe. Interested in
+applying AI to practical problems, especially computer vision and
+intelligent systems.
+
+EDUCATION Sphinx University — Faculty of Computers and Artificial
+Intelligence Degree: Bachelor’s degree in Artificial Intelligence
+Expected graduation: 2028
+
+TECHNICAL SKILLS Programming: Python, SQL Computer Vision: OpenCV,
+YOLOv8, MediaPipe, object detection, object tracking, hand tracking,
+gesture recognition Machine Learning and AI: Machine learning, deep
+learning, reinforcement learning, neural networks Frameworks and
+Libraries: TensorFlow, Keras, NumPy, Pandas Tools and Technologies: Git,
+GitHub, Linux, Jupyter Notebook, web scraping Data Work: Data
+collection, data cleaning, exploratory analysis, and visualization
+
+PROJECTS
+
+1.  Intelligent Traffic Control System GitHub:
+    https://github.com/aiabdullahmohamedpro-coder/traffic_ai_project
+    Technologies: Python, YOLOv8, ByteTrack, OpenCV, TensorFlow, SUMO,
+    Deep Q-Network (DQN)
+
+-   Developed an AI-based traffic management system.
+-   Implemented vehicle detection, tracking, and traffic-flow analysis.
+-   Designed a reinforcement-learning agent to optimize traffic signal
+    timing dynamically.
+
+2.  Breast Cancer Prediction System GitHub:
+    https://github.com/aiabdullahmohamedpro-coder/Cancer-Prediction-Ai
+    Technologies: Python, TensorFlow, Keras, scikit-learn
+
+-   Developed a neural-network-based breast cancer prediction project.
+-   Applied data preprocessing and feature scaling before model
+    training.
+-   Built a user-friendly graphical interface for interacting with the
+    model.
+
+3.  Hand Tracking System Technologies: Python, MediaPipe, OpenCV
+
+-   Built a real-time hand-tracking application using MediaPipe and
+    OpenCV.
+
+4.  Gesture Control System Technologies: Python, Computer Vision,
+    MediaPipe, OpenCV
+
+-   Developed a system for controlling computer applications through
+    hand gestures.
+
+5.  AI Gesture Assistant Technologies: Python, Computer Vision, Hand
+    Gestures
+
+-   Created an assistant concept that can launch applications and
+    execute commands through hand gestures.
+
+6.  Web Scraping and Data Analysis Technologies: Python, Web Scraping,
+    NumPy, Pandas
+
+-   Collected and cleaned data using Python tools.
+-   Analyzed and visualized collected data.
+
+AREAS OF INTEREST Computer Vision, Machine Learning, Deep Learning,
+Reinforcement Learning, Data Analysis, Intelligent AI Applications
+
+LANGUAGES Arabic: Native English: B2 (Upper-Intermediate)
+
+ACCURACY NOTES - Expected graduation year is 2028, as stated in the
+available CV. - No phone number is included because it was not listed in
+the latest CV version reviewed. - Do not infer work experience,
+internships, certifications, grades, awards, or project metrics; none
+are specified in this CV. - Project descriptions and technologies should
+be adjusted if any details no longer reflect the current state of the
+projects.
